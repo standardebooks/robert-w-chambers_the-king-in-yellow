@@ -1,6 +1,10 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+section[epub|type~="epigraph"] h2{
+	display: none;
+}
+
 section[epub|type~="dedication"]{
 	text-align: center;
 	font-variant: small-caps;
@@ -89,7 +93,6 @@ abbr.name{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:poem"] + p,
 [epub|type~="z3998:song"] + p,
 [epub|type~="z3998:verse"] + p{
 	text-indent: 0;
@@ -125,6 +128,6 @@ td{
 	padding: .5em;
 }
 
-blockquote[*|lang]{
+body [xml|lang]{ /* using xml:lang doesn't seem to work */
 	font-style: italic;
 }
