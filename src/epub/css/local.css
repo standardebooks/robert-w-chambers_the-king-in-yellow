@@ -26,6 +26,7 @@ abbr.name{
 	text-align: center;
 	text-indent: 0;
 	font-variant: small-caps;
+	hyphens: none;
 }
 
 .notice p,
@@ -54,13 +55,16 @@ abbr.name{
 }
 
 .sign{
-	border-width: 1px;
-	border-style: solid;
 	margin: 1em auto;
 	padding: 1em;
-	max-width: 25%;
+	max-width: 15em;
 	text-align: center;
 	font-variant: small-caps;
+}
+
+div.sign{
+	border-width: 1px;
+	border-style: solid;
 }
 
 [epub|type~="z3998:letter"] footer,
@@ -89,7 +93,8 @@ abbr.name{
 	display: none;
 }
 
-[epub|type~="z3998:poem"] p + p{
+[epub|type~="z3998:poem"] p + p,
+[epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
 
