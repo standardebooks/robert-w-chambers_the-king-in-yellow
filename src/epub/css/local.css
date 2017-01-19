@@ -5,6 +5,34 @@ section[epub|type~="epigraph"] h2{
 	display: none;
 }
 
+section > header{
+	text-align: center;
+}
+
+[epub|type~="epigraph"]{
+	font-style: italic;
+	hyphens: none;
+	margin: 3em;
+	margin-top: 0;
+	text-align: left;
+	text-indent: 0;
+	display: inline-block;
+}
+
+[epub|type~="epigraph"] i{
+	font-style: normal;
+}
+
+[epub|type~="epigraph"] cite{
+	margin-top: 1em;
+	font-style: normal;
+	font-variant: small-caps;
+}
+
+[epub|type~="epigraph"] cite i{
+	font-style: italic;
+}
+
 section[epub|type~="dedication"]{
 	text-align: center;
 	font-variant: small-caps;
