@@ -1,6 +1,10 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+abbr.era{
+	font-variant: all-small-caps;
+}
+
 section[epub|type~="epigraph"] h2{
 	display: none;
 }
