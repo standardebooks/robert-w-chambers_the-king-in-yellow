@@ -165,6 +165,7 @@ td{
 	padding: .5em;
 }
 
-body [xml|lang]{ /* using xml:lang doesn't seem to work */
+/* using xml:lang doesn't seem to work */
+body [xml|lang]{
 	font-style: italic;
 }
