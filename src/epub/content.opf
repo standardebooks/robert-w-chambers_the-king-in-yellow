@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow</dc:identifier>
 		<dc:date>2017-01-19T01:04:23Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T20:52:49Z</meta>
-		<meta property="se:revision-number">17</meta>
+		<meta property="dcterms:modified">2017-09-11T17:06:33Z</meta>
+		<meta property="se:revision-number">18</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,7 +32,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The King in Yellow&lt;/i&gt; is a fascinating, almost two-faced work. The first half consists of five legendary weird tales, loosely tied together by a fictional play—the eponymous &lt;i&gt;King in Yellow&lt;/i&gt;—that drives those who read it mad. Celebrated by authors like H. P. Lovecraft and Lin Carter, these stories are classic tales of madness, despair, and strange happenings.&lt;/p&gt;
 			&lt;p&gt;With the fifth tale the reader finds a sort of palate-cleansing collection of short prose-poems leading into the last four stories, which take a sharp turn away from the weird and into the romantic. The concluding tales are set in the Parisian art world.&lt;/p&gt;
-			&lt;p&gt;In modern times &lt;i&gt;The King in Yellow&lt;/i&gt; enjoys a reputation largely due to the strengh of its first half of macabre tales, but by no means does that make the second half less enjoyable. Both halves are written in a quick, light prose style that demonstrates why Chambers was a best-seller in his day.&lt;/p&gt;
+			&lt;p&gt;In modern times &lt;i&gt;The King in Yellow&lt;/i&gt; enjoys a reputation largely due to the strength of its first half of macabre tales, but by no means does that make the second half less enjoyable. Both halves are written in a quick, light prose style that demonstrates why Chambers was a best-seller in his day.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
