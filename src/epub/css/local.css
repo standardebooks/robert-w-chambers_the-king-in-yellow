@@ -25,7 +25,7 @@ section[epub|type~="dedication"] p{
 	hyphens: none;
 }
 
-.notice p,
+#the-street-of-our-lady-of-the-fields-chapter-1 blockquote p,
 [epub|type~="z3998:postscript"],
 [epub|type~="z3998:salutation"] + p,
 .menu p{
