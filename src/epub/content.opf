@@ -26,25 +26,26 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The King in Yellow</dc:title>
 		<meta property="file-as" refines="#title">King in Yellow, The</meta>
 		<dc:subject id="subject-1">Short stories, American</dc:subject>
 		<dc:subject id="subject-2">Horror tales, American</dc:subject>
 		<dc:subject id="subject-3">United States -- Social life and customs -- 19th century -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/8492</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/8492</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/8492</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85121819</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85062085</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2007100190</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">Ten short stories of madness, hauntings, romance, and art.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The King in Yellow&lt;/i&gt; is a fascinating, almost two-faced work. The first half consists of five legendary weird tales, loosely tied together by a fictional play—the eponymous &lt;i&gt;King in Yellow&lt;/i&gt;—that drives those who read it mad. Celebrated by authors like H. P. Lovecraft and Lin Carter, these stories are classic tales of madness, despair, and strange happenings.&lt;/p&gt;
 			&lt;p&gt;With the fifth tale the reader finds a sort of palate-cleansing collection of short prose-poems leading into the last four stories, which take a sharp turn away from the weird and into the romantic. The concluding tales are set in the Parisian art world.&lt;/p&gt;
 			&lt;p&gt;In modern times &lt;i&gt;The King in Yellow&lt;/i&gt; enjoys a reputation largely due to the strength of its first half of macabre tales, but by no means does that make the second half less enjoyable. Both halves are written in a quick, light prose style that demonstrates why Chambers was a best-seller in his day.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8492</dc:source>
 		<dc:source>https://books.google.com/books?id=qHgKEqjdy-wC</dc:source>
