@@ -47,7 +47,7 @@ section[epub|type~="dedication"] p{
 }
 
 .menu p + p::before{
-	content: '—';
+	content: "—";
 	display: block;
 }
 
