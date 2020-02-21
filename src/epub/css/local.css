@@ -19,7 +19,7 @@ section[epub|type~="dedication"] p{
 
 .inscription p,
 .sign p,
-.manuscript{
+#the-repairer-of-reputations-chapter-2 blockquote:first-of-type{
 	text-align: center;
 	text-indent: 0;
 	font-variant: small-caps;
@@ -29,7 +29,7 @@ section[epub|type~="dedication"] p{
 #the-street-of-our-lady-of-the-fields-chapter-1 blockquote p,
 [epub|type~="z3998:postscript"],
 [epub|type~="z3998:salutation"] + p,
-.menu p{
+#the-street-of-the-first-shell-chapter-2 blockquote:last-of-type p{
 	text-indent: 0;
 }
 
@@ -42,11 +42,11 @@ section[epub|type~="dedication"] p{
 	text-align: right;
 }
 
-.menu{
+#the-street-of-the-first-shell-chapter-2 blockquote:last-of-type{
 	text-align: center;
 }
 
-.menu p + p::before{
+#the-street-of-the-first-shell-chapter-2 blockquote:last-of-type p + p::before{
 	content: "—";
 	display: block;
 }
