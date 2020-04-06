@@ -163,7 +163,6 @@ p span.i1{
 	font-variant: all-small-caps;
 }
 
-/* using xml:lang doesn't seem to work */
 body [xml|lang]{
 	font-style: italic;
 }
