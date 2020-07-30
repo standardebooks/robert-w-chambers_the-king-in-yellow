@@ -24,6 +24,7 @@ section[epub|type~="dedication"] p{
 	text-indent: 0;
 	font-variant: small-caps;
 	hyphens: none;
+	-epub-hyphens: none;
 }
 
 #the-street-of-our-lady-of-the-fields-chapter-1 blockquote p,
@@ -132,6 +133,7 @@ p span.i1{
 
 [epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
 	hyphens: none;
+	-epub-hyphens: none;
 	text-align: right;
 	width: 20%;
 }
@@ -171,6 +173,7 @@ body [xml|lang]{
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
+	-epub-hyphens: none;
 }
 
 [epub|type~="epigraph"] i{
