@@ -66,7 +66,7 @@ div.sign{
 }
 
 [epub|type~="z3998:letter"] footer,
-[epub|type~="z3998:postscript"]:first-of-type{
+[epub|type~="z3998:signature"] + [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 }
 
