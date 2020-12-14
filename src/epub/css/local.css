@@ -65,9 +65,17 @@ div.sign{
 	border-style: solid;
 }
 
-[epub|type~="z3998:letter"] footer,
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 [epub|type~="z3998:signature"] + [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
+}
+
+[epub|type~="z3998:postscript"]{
+	text-align: left;
 }
 
 [epub|type~="z3998:poem"] p,
