@@ -102,7 +102,7 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-the-court-of-the-dragon.xhtml" id="in-the-court-of-the-dragon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/rue-barree.xhtml" id="rue-barree.xhtml" media-type="application/xhtml+xml"/>
@@ -122,7 +122,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="the-repairer-of-reputations.xhtml"/>
 		<itemref idref="the-mask.xhtml"/>
 		<itemref idref="in-the-court-of-the-dragon.xhtml"/>
