@@ -7,8 +7,8 @@
 }
 
 section[epub|type~="dedication"]{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 section[epub|type~="dedication"] p{
@@ -18,19 +18,19 @@ section[epub|type~="dedication"] p{
 }
 
 [epub|type~="z3998:postscript"]{
+	margin-top: 1em;
 	text-align: initial;
 	text-indent: 0;
-	margin-top: 1em;
 }
 
 .inscription p,
 .sign p,
 #the-repairer-of-reputations-chapter-2 blockquote:first-of-type{
-	text-align: center;
-	text-indent: 0;
 	font-variant: small-caps;
 	hyphens: none;
 	-epub-hyphens: none;
+	text-align: center;
+	text-indent: 0;
 }
 
 #the-street-of-our-lady-of-the-fields-chapter-1 blockquote p,
@@ -58,16 +58,16 @@ section[epub|type~="dedication"] p{
 }
 
 .sign{
-	margin: 1em auto;
-	padding: 1em;
-	max-width: 15em;
-	text-align: center;
 	font-variant: small-caps;
+	margin: 1em auto;
+	max-width: 15em;
+	padding: 1em;
+	text-align: center;
 }
 
 div.sign{
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 }
 
 footer{
@@ -125,8 +125,8 @@ p span.i1{
 }
 
 [epub|type~="z3998:drama"] td{
-	vertical-align: top;
 	padding: .5em;
+	vertical-align: top;
 }
 
 [epub|type~="z3998:drama"] td:last-child{
@@ -182,9 +182,9 @@ body [xml|lang]{
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 
 [epub|type~="epigraph"] cite i{
