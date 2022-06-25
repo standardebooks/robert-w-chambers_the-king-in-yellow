@@ -39,6 +39,7 @@
 		<meta property="term" refines="#subject-3">sh2007100190</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">Ten short stories of madness, hauntings, romance, and art.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The King in Yellow&lt;/i&gt; is a fascinating, almost two-faced work. The first half consists of five legendary weird tales, loosely tied together by a fictional play—the eponymous &lt;i&gt;King in Yellow&lt;/i&gt;—that drives those who read it mad. Celebrated by authors like &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;&lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft&lt;/a&gt; and Lin Carter, these stories are classic tales of madness, despair, and strange happenings.&lt;/p&gt;
