@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8492</dc:source>
 		<dc:source>https://books.google.com/books?id=qHgKEqjdy-wC</dc:source>
-		<meta property="se:word-count">72576</meta>
+		<meta property="se:word-count">71937</meta>
 		<meta property="se:reading-ease.flesch">71.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_King_in_Yellow</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-w-chambers_the-king-in-yellow</meta>
